@@ -1,14 +1,26 @@
-layout_spectrum: 0.1401159295346588
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3825517799705267
 color:
-  brandStrength: 0.19584308029152453
-  lightness: 0.9435676471330225
-  saturation: 0.39990599686279893
-  rhythmicContrast: 0.49884230620227754
+  saturation: 0.683584
+  brandStrength: 0.1958430802915245
+  lightness: 0.3195489
   brandColors:
     - '#405952'
     - '#9C9B7A'
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
+  rhythmicContrast: 0.8220552
+layout_spectrum: 0.1401159295346588
 name: Devotio Media

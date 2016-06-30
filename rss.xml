@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Devotio Cinematics]]></title>
         <description><![CDATA[Devotio Cinematics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/devotio-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 00:56:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 00:57:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/devotio-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8fe4e1-88dd-43da-8f0a-d2b6bc09420c.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8fe4e1-88dd-43da-8f0a-d2b6bc09420c.jpg</link>
+            <guid isPermaLink="false">ac85da7c-6e31-4ac5-bed0-1b80d115d4f2</guid>
+            <pubDate>Thu, 30 Jun 2016 00:56:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Devotio: Wedding]]></title>
             <description><![CDATA[<article><h1>Devotio: Wedding</h1><p>A 60 second example of wedding production performed at Devotio Media Studios, Lake Chelan, Washington.</p></article>]]></description>

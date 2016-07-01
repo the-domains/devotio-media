@@ -1,12 +1,15 @@
 ---
-datePublished: '2016-07-01T04:29:01.537Z'
+datePublished: '2016-07-01T04:32:48.612Z'
 sourcePath: _posts/2016-07-01-devotio-wedding.md
 isBasedOnUrl: 'https://vimeo.com/172780033'
 keywords: []
 related: []
-author: []
-dateModified: '2016-07-01T04:29:01.102Z'
-title: ''
+author:
+  - name: ':devotio:'
+    url: 'http://vimeo.com/devotio'
+    avatar: {}
+dateModified: '2016-07-01T04:32:39.961Z'
+title: 'Devotio: Wedding'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/172780033'
     type: ios
@@ -49,7 +52,6 @@ _type: VideoObject
 
 ---
 love is transcendent...
-![A wedding celebration at Karma Vineyards at Lake Chelan, filmed by Devotio Cinematics](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e49633dbb82a1f802bef86d703638332/croprotate.jpg?cropheight=852&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F587a9907-dd86-4e0d-bfdb-9e713317089b.jpg&x=0&y=0)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F172780033&amp;url=https%3A%2F%2Fvimeo.com%2F172780033&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578722633_640.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 

@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Devotio Cinematics]]></title>
         <description><![CDATA[Devotio Cinematics]]></description>
-        <link>https://thegrid.ai/devotio-media/</link>
+        <link>http://devotiomedia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 00:57:21 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/devotio-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 01:02:15 GMT</lastBuildDate>
+        <atom:link href="http://devotiomedia.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Devotio: Wedding]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17394b25-829b-4217-b029-173830de0267.jpg">]]></description>
@@ -23,7 +23,7 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bdfce0b-203e-4493-90df-f3ee94f5ddc3.png" alt="We&apos;re nothin&apos; but mischief makers!">]]></description>
-            <link>https://thegrid.ai/devotio-media/were-nothin-but-mischief-makers/index.html</link>
+            <link>http://devotiomedia.com/were-nothin-but-mischief-makers/index.html</link>
             <guid isPermaLink="false">dd953670-c3f1-4cc3-bb0b-7c536618902d</guid>
             <pubDate>Thu, 30 Jun 2016 00:56:59 GMT</pubDate>
         </item>
@@ -33,13 +33,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8fe4e1-88dd-43da-8f0a-d2b6bc09420c.jpg</link>
             <guid isPermaLink="false">ac85da7c-6e31-4ac5-bed0-1b80d115d4f2</guid>
             <pubDate>Thu, 30 Jun 2016 00:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Devotio: Wedding]]></title>
-            <description><![CDATA[<article><h1>Devotio: Wedding</h1><p>A 60 second example of wedding production performed at Devotio Media Studios, Lake Chelan, Washington.</p></article>]]></description>
-            <link>https://vimeo.com/172780033</link>
-            <guid isPermaLink="false">2274726c-1c13-4b80-bcf1-5bb854a1d595</guid>
-            <pubDate>Thu, 30 Jun 2016 00:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

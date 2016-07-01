@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-01T04:28:46.324Z'
+datePublished: '2016-07-01T04:29:01.537Z'
 sourcePath: _posts/2016-07-01-devotio-wedding.md
 isBasedOnUrl: 'https://vimeo.com/172780033'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-01T01:23:34.843Z'
+dateModified: '2016-07-01T04:29:01.102Z'
 title: ''
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/172780033'
@@ -40,7 +40,7 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 description: love is transcendent...
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false

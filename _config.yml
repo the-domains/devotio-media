@@ -1,3 +1,21 @@
+typography_spectrum: 0.3825517799705267
+color:
+  saturation: 0.683584
+  brandStrength: 0.1958430802915245
+  lightness: 0.3195489
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  rhythmicContrast: 0.8220552
+layout_spectrum: 1
+author:
+  name: devotio
+  email: devotiomedia@gmail.com
+  url: devotiomedia.com
+name: Devotio Cinematics
 collections:
   - index:
       path: /
@@ -10,17 +28,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.683584
-  brandStrength: 0.1958430802915245
-  lightness: 0.3195489
-  brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
-  rhythmicContrast: 0.8220552
-typography_spectrum: 0.3825517799705267
-layout_spectrum: 1
-name: Devotio Cinematics
+title: ...seeking the transcendent...

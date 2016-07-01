@@ -4,8 +4,15 @@
         <description><![CDATA[Devotio Cinematics]]></description>
         <link>http://devotiomedia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 01:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 01:17:43 GMT</lastBuildDate>
         <atom:link href="http://devotiomedia.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8fe4e1-88dd-43da-8f0a-d2b6bc09420c.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8fe4e1-88dd-43da-8f0a-d2b6bc09420c.jpg</link>
+            <guid isPermaLink="false">ac85da7c-6e31-4ac5-bed0-1b80d115d4f2</guid>
+            <pubDate>Fri, 01 Jul 2016 01:17:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[love is transcendent...]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e49633dbb82a1f802bef86d703638332/croprotate.jpg?cropheight=852&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F587a9907-dd86-4e0d-bfdb-9e713317089b.jpg&x=0&y=0" alt="A wedding celebration at Karma Vineyards at Lake Chelan, filmed by Devotio Cinematics">]]></description>
@@ -19,13 +26,6 @@
             <link>http://cascadephotoarcade.com</link>
             <guid isPermaLink="false">8663caba-163a-46ce-a4b8-1a2cd7b0eba9</guid>
             <pubDate>Thu, 30 Jun 2016 00:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8fe4e1-88dd-43da-8f0a-d2b6bc09420c.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8fe4e1-88dd-43da-8f0a-d2b6bc09420c.jpg</link>
-            <guid isPermaLink="false">ac85da7c-6e31-4ac5-bed0-1b80d115d4f2</guid>
-            <pubDate>Thu, 30 Jun 2016 00:56:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
